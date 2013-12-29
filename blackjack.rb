@@ -2,7 +2,6 @@ class Player
   def score
 
   end
-
 end
 
 
